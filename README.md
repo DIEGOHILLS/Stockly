@@ -2,7 +2,7 @@
 
 A full-stack inventory management platform built with the PERN stack (PostgreSQL, Express, React, Node.js), featuring multi-user product and stock management, CRUD operations, rate limiting, and production deployment.
 
-Live Demo: https://your-deployed-url-here.com
+Live Demo: https://stockly-aqif.onrender.com/
 
 ---
 
@@ -38,12 +38,6 @@ Database (PostgreSQL)
 
 ---
 
-Screenshots
-
-Product Dashboard: ![Dashboard](screenshots/dashboard.png)
-Add/Edit Product: ![Product Form](screenshots/product-form.png)
-Dark Mode: ![Dark Mode](screenshots/dark-mode.png)
-
 ---
 
 What I Learned
@@ -68,14 +62,9 @@ Prerequisites:
 - Node.js v18+
 - PostgreSQL instance (local or cloud)
 
-Environment Variables:
-Create a .env file in the server directory:
-PORT=5000
-DATABASE_URL=your_postgresql_connection_string
-NODE_ENV=development
 
 Installation:
-git clone https://github.com/DIEGOHILLS/REPLACE-WITH-ACTUAL-REPO-NAME.git
+git clone (https://github.com/DIEGOHILLS/Stockly.git)
 cd server
 npm install
 cd ../client
